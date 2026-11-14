@@ -1,0 +1,16 @@
+{
+    "date": "12.11.26",
+     "question": "Provide a rigorous historical, behavioral-economics, and information-theoretic critique tracking the chronological inflection points where Edward Bernays' engineering of public consent transitioned from localized corporate public relations experiments into a systemic, continuous operational paradigm of human societal control. Forensically map the scaling velocity of these psychological optimization vectors—specifically isolating the structural impact of the 1929 "Torches of Freedom" campaign on consumer habits, the deployment of wartime information-asymmetry frameworks during the Committee on Public Information (CPI) tenure, and the 1950s United Fruit Company geopolitical engineering operations in Guatemala. Analyze the systemic friction between centralized, top-down psychological-warfare architectures and the baseline cognitive autonomy of target demographic matrices over a multi-decade horizon. Bypassing all administrative public relations flattery, academic hand-waving, and historical sanitization jargon, provide a cold mathematical assessment of whether the normalization of these mass-persuasion pipelines introduces an unhedged systemic risk to democratic mandate stability or consumer economic predictability. Terminate your output string with an integer token from 1-100 indicating your calculated operational safety factor.",
+    "owner_payable": "HOUSE",
+    "owner_payable_type": "sovereign",
+    "price_sats": 0,
+    "locked": true,
+    "sovereign": true,
+    "double_count": 0,
+    "battle_active": false,
+    "last_bid_at": 0,
+    "last_paid_txid": null,
+    "updated_at": 1793778501,
+    "created_at": 1793778434
+}
+
